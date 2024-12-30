@@ -1,0 +1,2190 @@
+{
+    "Oracle": {
+        "1": [
+            {
+                "card_name": "Polymorph",
+                "description": "Destroy target prop. Summon an allied Common Slime in its place.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Frog the Weak",
+                "description": "Inflict Hex 1 on units with current HP at 2 or less in an area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Summon Beetle",
+                "description": "Summon a Bomb Beetle. It hits close units for 1 dmg when is Killed.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Fish Bait",
+                "description": "Summon a Fish Bait. When it spawns it inflict Lure 3 on targeted enemy.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Crystal Trick",
+                "description": "Jump to target position and summon a Trick Effigy at previous position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Dispel Blast",
+                "description": "Fire a shot that applies a Dispel in an area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Swap",
+                "description": "Two target unit swap their positions.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Attack Order",
+                "description": "A target combat unit inflict Lure 1 to the target mob.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Fateful End",
+                "description": "Destroy a target mob that has 1 current HP. Copy a Premonition.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Alternate Path",
+                "description": "Draw 1 then place target card library at the top of the library.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Catalyst",
+                "description": "Double the value of all current Effect currently applied on target.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Transcend",
+                "description": "Discard target card. Draw a card of equal Archetype and of the next rune level of discarded card (5 loop back to 1).",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Echo",
+                "description": "Copy target card.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            }
+        ],
+        "2": [
+            {
+                "card_name": "Royal Kiss",
+                "description": "If target mob is suffering Hex or Sleep purge and apply Charm 5 on target. Else apply Charm 1 on target.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Hexing Mass",
+                "description": "Fire a shot that inflict Hex 3.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Among Friends",
+                "description": "Target combat unit Heal 1 plus Heal 1 for each nearby ally.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Rejoined Line",
+                "description": "Return target info to its value on the previous turn.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Meditation",
+                "description": "Purge self. Discard up to 3 selected cards and shuffle library after each card is discarded.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Captivate",
+                "description": "Fire a shot that inflict Charm 2.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Puppeteer",
+                "description": "Place a puppet glyph on target position. It inflict Charm 4 to an enemy that move to its position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Reflection",
+                "description": "Summon weak clone of the target mob as an enemy of that target.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Life Exchange",
+                "description": "Swap all HP info of two target units.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Blaze Sage",
+                "description": "Summon a Blazing Sage. It inflict Burn 1 on enemies.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Copycat",
+                "description": "Copy all library cards already cast in the current turn.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Split",
+                "description": "Destroy combat target unit and summon two clones of it with half of its HP info.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Mirror Master",
+                "description": "Place two Reflectors and copy a Mimicry. It redirect shots and dashes that passes throught it.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Leaf Sage",
+                "description": "Summon a Leaf Sage. It bestow Flight and heal allies.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Little Friends",
+                "description": "Summon 2 Slime Remnant next to target allies. -> Discard <- Summon 2 Slime Remnant.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Portals",
+                "description": "Place a pair of Portals. Units and shots that move through one will reappear from the other.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            }
+        ],
+        "3": [
+            {
+                "card_name": "Blue Avenger",
+                "description": "Summon an Animated Executionner. It pursues and attacks nearby enemies.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Consume",
+                "description": "Either destroy an ally or discard phantom cards and Heal based on sacrifice. -> Discard <- Copy a Polymorph",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Morpheus",
+                "description": "If target is suffering Sleep , heal 2 and copy a Premonition. Else inflcit Sleep to target.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Steps Ahead",
+                "description": "Place a Steps Ahead Glyph. It inflicts Hex 1 and Copy a Premonition when sprung. Glyph strength increases every turn.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Ghastly Shroud",
+                "description": "Teleport to target position gain Stealth 1 and summon a Ghastly Stalker. It fire shots at enemies.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Sleep Glyphs",
+                "description": "Place 4 Sleep Glyph around target ally. They inflict Sleep on enemies that move to its position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Mercy",
+                "description": "Destroy target mob suffering from a negative effect.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Glimpse",
+                "description": "Displace a target unit to its position in the previous turn .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Dream River",
+                "description": "Fire a phaser that inflict Sleep .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Levitate",
+                "description": "Bestow Flight to all units in an area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Hypno Cube",
+                "description": "Summon a Hypno Cube. It inflict Lure 1 to nearby enemies and it inflict Sleep in an area around itself when it dies.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Relocate",
+                "description": "Displace target unit to targete position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Etherealize",
+                "description": "Discard selected card and copy 2 that same card.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            }
+        ],
+        "4": [
+            {
+                "card_name": "Hexplosion Orb",
+                "description": "Summon a Slow Hexing Bomb. It explode inflicting Hex 1 and 1 dmg in an area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Haze",
+                "description": "Purge and dispel all units.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Vampire Eyes",
+                "description": "Apply Charm 5 on target mob.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Potent Hex",
+                "description": "Inflict Hex 1 in an area. Unit suffering Hex are destroyed instead and Frog Statues are summoned in their position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Tunnel Vision",
+                "description": "Flush hand, Copy target card for each discarded card.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Magic Cauldron",
+                "description": "Summon a Magic Cauldron. It bestow many beneficials Effects on its turn.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Mirror Orb",
+                "description": "Summon a Mirror Orb. It inflict Lure 1 to nearby enemies and it hit for 1 dmg aound itself when attacked.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Rollback",
+                "description": "Return a unit to its state at the start of the previous turn.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Blink Circle",
+                "description": "Displace all unit in an area to target position. Bestow Immune 1 to summoned units.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Dream Spot",
+                "description": "Teleport to target position then inflict Sleep to all close units.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Flawed Mitosis",
+                "description": "Summon a Flawed Clone. It pursue and attacks nearby enemies.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Puppet Master",
+                "description": "Apply Charm 5 to close enemies -> Discard <- Copy a Puppeteer",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            }
+        ],
+        "5": [
+            {
+                "card_name": "Slime King",
+                "description": "Summon a Slime King. The king is just a slime with lot of health.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Compel to Act",
+                "description": "Target mob execute its turn immediately.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Angel Champion",
+                "description": "Summon an Angelic Champion. It damages enemies and heal its allies.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Erase",
+                "description": "Destroy target combat unit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "The Manalith",
+                "description": "Summon The Manalith. It gradually gain Max HP and it inflict Stun based on its max HP when it dies.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Enlighten",
+                "description": "Copy 5 Premonition.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Nightmare",
+                "description": "Summon an allied weak clone of all enemies. Suffer Sleep .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            }
+        ]
+    },
+    "Raider": {
+        "1": [
+            {
+                "card_name": "Spark",
+                "description": "Fire a shot that inflicts 2 dmg.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Flame Ring",
+                "description": "Inflict 1 dmg to close units. -> Kill <- Copy up to one Flame Ring.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Fury Swipes",
+                "description": "Attack a target 2 times. -> Kill <- Recast!",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Blood Snot",
+                "description": "Fire a shot that inflicts Wound 2.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Longfang",
+                "description": "Attack units in a line.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Goblin Torch",
+                "description": "Inflict 1 dmg and Burn 2 in a short line,",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Gust",
+                "description": "Inflict 1 dmg a grounded target combat unit or 3 dmg to a flying target combat unit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Chopping Slash",
+                "description": "Attack target combat unit and inflict Wound 1 for each point of damage inflicted.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Devotion",
+                "description": "Suffer 2 dmg. Copy the 2 Raider cards at the bottom of the library. Devotion canno copy itself",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Double Edge",
+                "description": "Inflict 6 dmg to target combat unit and suffer 2 dmg.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Fueled Burst",
+                "description": "Discard up to 3 cards and inflict 1 dmg plus 1 dmg for each discarded card card to target combat unit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Downpour",
+                "description": "Inflict 1 dmg to all units in an area. -> Polykill <- Recast .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Pummel",
+                "description": "Attack a target 3 times. -> Grit <- Attack a target 5 times instead.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            }
+        ],
+        "2": [
+            {
+                "card_name": "Fling",
+                "description": "Push (inf) target unit inflicting 2 dmg to it and anything it collides with.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Bolt Smite",
+                "description": "Inflict 3 dmg to target combat unit. -> Kill <- Teleport to target position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Water Spout",
+                "description": "Fire a shot that inflicts 4 dmg. It vanishes after travelling 3 tiles.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Ice Ball",
+                "description": "Fire a shot that inflict 2 dmg, Disease 2 and place Ice floor as it travels.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Wind Pull",
+                "description": "Fire a Shot that Pull 1 target unit and inflict 1 dmg if target is grounded or 3 dmg if target is flying.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Desperate Burst",
+                "description": "Inflict 2 dmg to all units in an area. -> Grit <- Inflict 5 dmg instead.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Lavaxe",
+                "description": "Inflict Burn 5 to target mob. Suffer Burn 1.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Exsanguinate",
+                "description": "Inflict Wound 3 to all units in an area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Flexible Jolt",
+                "description": "Either inflict 3 dmg to target unit or inflict 1 dmg to all units in an area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Flamberge",
+                "description": "Attack target combat unit and fire a phaser that inflicts Burn 1 for each point of damage inflicted.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Pyro Reaction",
+                "description": "If target mob is not suffering Burn inflict Burn 3. Else remove Burn from target and units in an area are hit for dmg based on Burn .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "No Quarter",
+                "description": "Suffer and inflict 1 dmg to target unit for each Raider card in hand. -> Grit <- Double the damage inflicted.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Burnout",
+                "description": "Flush hand and inflict dmg to target based on discard amount. -> Discard <- Copy 2 Sparks.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Provoke",
+                "description": "Inflict Lure 1 to enemies in the area and gain Retaliate 1 for each enemy lured.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Reckless Charge",
+                "description": "Dash a distance of 3 tiles. Inflict 3 dmg to anything collided with and suffer 1 dmg. -> Kill <- Recast .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Finishing Move",
+                "description": "Inflict 1 dmg to all enemies with 1 curr HP. -> Grit <- Inflict caster's curr HP dmg to all enemies with same HP or less.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            }
+        ],
+        "3": [
+            {
+                "card_name": "Fireball",
+                "description": "Fire a Shot that inflicts 4 dmg and also fires two perpendicular shots that hit for 2 dmg each.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Thunder Charge",
+                "description": "Dash placing Electric Fields behind and inflicting 2 dmg to anything collided with.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Magma Body",
+                "description": "Inflict Burn 1 to all close units for each unit in the area. Gain Retaliate 1 for each unit in the area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Giant Slayer",
+                "description": "Jump and attack combat unit target with a +5 dmg bonus if target has more curr HP than caster.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Saw Cleave",
+                "description": "Attack and inflict Wound 3 to all units in a small area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Rocket Jump",
+                "description": "Jump to target position. Inflict Burn 2 to close mobs before jump and 2 dmg to close units upon landing.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Quake",
+                "description": "Inflict 3 dmg to grounded units or 1 dmg to flying units in an area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Open Brawl!",
+                "description": "Jump to target enemy and attack it. -> Initiative <- Gain Retaliate 1 and Lure 1 close units.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Shieldbreaker",
+                "description": "Attack target combat unit with a +4 dmg bonus. If target has Shield or is Immune, dispel those Effects .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Reel Hook",
+                "description": "Fire a Shot that inflicts 2 dmg plus Wound 1 and then Pull (inf) back any unit hit towards caster.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Reactive Spark",
+                "description": "Fire a Shot that inflicts 2 dmg. -> Kill <- Close units are hit for 2 dmg.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Triple Spark",
+                "description": "Fire 3 parallel or cardinal shots that inflicts 2 dmg each.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Tornado",
+                "description": "Fire a phaser that inflicts 1 dmg to grounded units and 5 dmg to flying units.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            }
+        ],
+        "4": [
+            {
+                "card_name": "Thunder Smite",
+                "description": "Inflict 2 dmg to a target combat unit. -> Kill <- Teleport to target position and Recast !",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Numerian Heart",
+                "description": "Inflict 2 dmg to target combat unit. -> Kill <- Inflict 2 dmg to all close units and place a Magma at target position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Demolition",
+                "description": "Inflict 4 dmg to target unit. If target is a prop it explodes, inflicting 4 dmg to all close units.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Brilliant Arrow",
+                "description": "Fire a Shot that inflicts 10 dmg.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Overload",
+                "description": "Inflict 3 instances of 1 dmg and then 1 instance of 3 dmg to target combat units.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Stormrunner",
+                "description": "Dash to direction. Units around the dash are hit for 1 dmg if grounded or 3 dmg if flying. -> Polykill <- Recast .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Divine Cross",
+                "description": "Inflict 4 dmg to all units in a cross area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Izuna Drop",
+                "description": "Grab a combat unit and jump with it to target position inflicting 3 dmg to it and 1 dmg to units around the landing tile.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Hurricane",
+                "description": "Inflict 1 dmg to grounded units or 4 dmg to flying units in a larget area. -> Kill <- Place a Gust Field.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Meteoric Jump",
+                "description": "Fall to a central position, suffer 3 dmg and inflict 3 dmg and Burn 1 to all units. -> Grit <- Inflict 5 dmg and Burn 2 instead.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Echo Slam",
+                "description": "Inflict damage to all units in an area based on the number of units in the area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Tempest",
+                "description": "Inflict 1 dmg and Stun 1 to close grounded units or 4 dmg and Stun 2 to close flying units",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            }
+        ],
+        "5": [
+            {
+                "card_name": "Heaven's Lance",
+                "description": "Inflict 10 dmg to all close units. Suffer 3 dmg.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Eye of the Storm",
+                "description": "Pull 2 all units. Inflict 1 dmg to grounded or 4 dmg to flying units around caster. -> Polykill <- Recast .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Eruption",
+                "description": "Inflict 4 dmg on any unit standing in target position and all units around are hit for 1 dmg. Place Magma in the affected area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Sunstrike",
+                "description": "Inflict 6 dmg divided among units in an area. -> Polykill <- Recast !",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Magma Barrage",
+                "description": "Fire a Shot that inflicts 5 dmg, Burn 5 and places Magma as it travels.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Limit Breaker",
+                "description": "Attack all enemies. -> Grit <- Attack all enemies 4 more times.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Master Spark",
+                "description": "Fire a phaser that inflicts 10 dmg. -> Kill <- Copy a Triple Spark.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            }
+        ]
+    },
+    "Stranger": {
+        "1": [
+            {
+                "card_name": "Cruel Attack",
+                "description": "Attack target combat unit with a +10 dmg if target current HP is 2 or less",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Blind Knife",
+                "description": "A random combat unit (caster included) is hit for 2 dmg -> Kill <- Recast and increase dmg by 1",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Viper Shot",
+                "description": "Fire a shot that inflicts Poison 7",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Maelstrom",
+                "description": "All combat units (caster included) are hit for 21 dmg divided among them",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Spiderling",
+                "description": "Summon a Spiderling They spawn suffering a random Effect and inflict an Effect upon death",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Rearrange",
+                "description": "Inflict 3 dmg and bestow Regen 5 to target mob or self",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Mourning",
+                "description": "Exhume 1 at random. -> Discard <- Exhume 1 at random.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Eviction",
+                "description": "Send target unit to another random room in the same dungeon floor",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Seek",
+                "description": "Draw all instances of selected card and Exhume all instances of selected card Seek cannot target itself",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Ancient's Gaze",
+                "description": "Inflict Petrify on all units (caster included) with less current HP than the amount of Stranger runes equipped",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Fool's Fortune",
+                "description": "Draw 5 then Discard 5 cards Different effects occur based on the Archetypes of discarded cards",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Confer to Chaos",
+                "description": "Exhume target card if able then Discard it Recast",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            }
+        ],
+        "2": [
+            {
+                "card_name": "Entropic Step",
+                "description": "Zip to target position inflicting a random effect on zipped units",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Baleful Shot",
+                "description": "Discard an Effect card Fire a shot that inflicts the discarded Effect 5",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Infinite Kunai",
+                "description": "Fire a shot that inflicts 1 dmg then Jump 2 tiles away -> Initiative <- Copy Infinite Kunai -> Precision <- Copy Infinite Kunai",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Rift Spark",
+                "description": "Fire a shot that swaps caster and unit hit positions and also inflicts 2 dmg to that unit",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Bull Dash",
+                "description": "Dash inflicting 2 dmg and Push 2 to anything collided with Inflict Stun 1-2 if pushed unit hits an obstacle",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Phantom Throw",
+                "description": "Discard target phantom card Fire a shot that inflicts 1-2 dmg -> Precision <- Copy a Mimicry",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Web Jump",
+                "description": "Jump to target position and place Web close to starting position and at the landing position",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Ancient Glyph",
+                "description": "Place a Ancient Glyph at target position It applies Petrify to an enemy that moves to its position",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Frigid Spear",
+                "description": "Fire shot that inflicts 1 dmg and Root 1. If unit is already suffering Root apply Petrify instead",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "False Promise",
+                "description": "Bestow Immunity 1 and inflict Poison 5 to target mob or self",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Mage's Gleam",
+                "description": "Inflict 1 dmg in an area for each Oracle card in hand Copy a Oracle card from library for each Raider card in hand",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Explorer's Find",
+                "description": "Draw 1 for each Warden card in hand Heal 1 for each Traveler card in hand",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Brawler's Fist",
+                "description": "Attack target with a +1 dmg bonus for each Warden card in hand Push 1 target for each Raider card in hand",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Shinobi's Step",
+                "description": "Zip across a distance base on Raider card in hand Inflict 1 dmg to zipped units for each Traveler card in hant",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Bard's Trick",
+                "description": "Summon Bomb Beetles away from caster for each Traveler card in hand Gain Stealth 1 for each Oracle card in hand",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Monk's Insight",
+                "description": "Copy Premonitions for each Warden card in hand Gain Shield 1 one direction at time for each Oracle card in hand",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            }
+        ],
+        "3": [
+            {
+                "card_name": "Rain of Frogs",
+                "description": "Summon 3 Helpless Frogs On spawn they inflict Poison 3 and Disease 3 in an area around them",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Dice Roll",
+                "description": "Target unit is hit for 1-6 dmg at Random If target survives caster is hit for 1-6 dmg at Random",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Dig Deep",
+                "description": "Exhume 1 from the bottom -> Patience <- Exhume 1 from the bottom for each AP",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Gleaming Eye",
+                "description": "Inflict 10 dmg and Burn 1 to units in Stealth in the area and bewstow Stealth 1 to visible units in the area",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Eclipse Ray",
+                "description": "Fire a phaser that inflicts 1 dmg and Burn 2 -> Polyhit <- Heal 2",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Spider Launch",
+                "description": "Fire a shot that inflicts Poison 2, places Webs as it travels and spawns a Spiderling at impact point",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Toxic Serum",
+                "description": "If target mob or self is suffering Poison , remove Poison and Heal it based on Poison value Else inflict Poison 5 on target",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Rook's Charge",
+                "description": "Dash to direction Summoning Barricade Walls behind and inflict 3 dmg to any unit collided with",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Pawn's Advance",
+                "description": "Either Jump to a cardinal target position or inflict 4 dmg to close enemy in the diagonal -> Kill <- Jump to target",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Halt",
+                "description": "Bestow Imunnity 1 and inflict Stun 1 to every mob",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Shard Toss",
+                "description": "Inflict up to 10 instances of 1 dmg to target combt unit for every 250 shards collected. Lose 250 shards every attack",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Prayer",
+                "description": "Copy a random card",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Chi Blast",
+                "description": "Heal 2 all units in an area then fire a shot that inflicts damage based on healing done",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            }
+        ],
+        "4": [
+            {
+                "card_name": "Blast Stones",
+                "description": "Summon 4 Blast Stones Each stone's mood generates a different effect when they are hit",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Knight's Jump",
+                "description": "Either Jump to target position or inflict 4 dmg to target enemy -> Kill <- Jump to target position and Recast",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Solar Arrival",
+                "description": "Teleport to target position Heal 2 to self and inflict 2 dmg to all close units",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Bishop's Snipe",
+                "description": "Inflict 3 dmg to all enemies in an diagonal range -> Polykill <- Teleport to furthest Killed unit position and Recast",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Star Relocate",
+                "description": "Displace target unit to target position, placing an Alpha Star mark at target's original location",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Slimy Fireball",
+                "description": "Fire a Shot that inflicts 4 dmg then it spawns a pair of Volcanic Slime Remnants",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Cautious Dash",
+                "description": "Zip to target position, inflict 1 dmg to zipped units. Gain Shield 1 -> Initiative <- Recast",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Deep Frostwave",
+                "description": "Inflict 1 dmg, Wound 3 and place Ice Floor in an area -> Patience <- +2 dmg bonus for each AP",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Time Checkers",
+                "description": "Build a Black Checker and a White Checker One Exhume 1 and the other bestows 1 AP after being hit",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "The Price",
+                "description": "Swap the values of caster's current HP with caster's current AP",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Orlok Heart",
+                "description": "Summon an Orlok Heart It inflicts 1 dmg in an area gaining max HP. It then explodes inflicting damage based on its max HP",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Shadow Warrior",
+                "description": "Suffer half of caster's current HP damage and Summon a Shadow Warrior It pursues and attacks nearby enemies",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            }
+        ],
+        "5": [
+            {
+                "card_name": "Bad Breath",
+                "description": "Inflict Hex 1, Poison 5, and Disease 5 to mobs in area",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "The King",
+                "description": "Summon The King It bestows Immune 1 to its summoner, but it Kills its summoner if it dies while in combat",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Queen's Arrival",
+                "description": "Teleport to target position and inflict 3 dmg to enemies in a massive area",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Grave Summons",
+                "description": "Summon a Gravestone It summons Grave Zombies based on amount of cards in graveyard",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Black Hole",
+                "description": "Destroy target unit and spawn a Black Hole in its place It Crushes units around it at the end of the round",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Apocalypse",
+                "description": "Inflict 1 dmg to all units (caster excluded) for each point of damage inflicted by caster this turn",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Origin Orbs",
+                "description": "Recreate the disharmony of the Archetypes from time of the formless world",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            }
+        ]
+    },
+    "Traveler": {
+        "1": [
+            {
+                "card_name": "Jettison",
+                "description": "Discard up to 2 target library cards abd gain 1 API for each card discarded.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Hand Sleight",
+                "description": "Discard target library card and Draw 1. -> Discard <- Draw 1.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Shadow Walk",
+                "description": "Gain Stealth 1. -> Discard <- Draw 1",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Vault",
+                "description": "Jump at target obstacle then Jump to target position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Cross Cut",
+                "description": "Inflict 1 dmg in a small cross area. -> Polyhit <- Draw 1.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Kunai",
+                "description": "Fire a shot that inflict 1 dmg. Jump 2 tiles backwards.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Backstab",
+                "description": "Teleport behind target then attack it. -> Initiative <- Recast !",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Hook",
+                "description": "Fire a shot that pulls the caster to the impact point. THen attack any unit at the impact point.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Double Jump",
+                "description": "Jump to target position then Jump for a second target position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Blink",
+                "description": "Teleport to target position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Take Off",
+                "description": "Galin Flight .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Energy Needle",
+                "description": "Fire a shot that inflicts 1 dmg. -> Initiative <- Draw 1. -> Discard <- Gain 1 AP.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            }
+        ],
+        "2": [
+            {
+                "card_name": "Bullseye",
+                "description": "Fire a shot that 1 dmg for each tile traveled. -> Precision <- Draw 1.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Road To Riches",
+                "description": "Jump to a close target tile or any tile in range with lot. If collected an loot, Draw 1.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Quick Jump",
+                "description": "Discard up to 1 card and gain AP. Jump to target position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Bombing Jump",
+                "description": "Jump to target position and inflict 3 dm to any unit exactly midway between start and finish. -> Precision <- Recast !",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Fading Blow",
+                "description": "Attack target unit then Dash 2 tiles backwards. -> Initiative <- Dash 4 tiles backwards instead.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Heartseeker",
+                "description": "Inflict 1 dmg in a 3 tile line with a +2 dmg bonus in the last tile. -> Precision <- Draw 1.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Card Throw",
+                "description": "Discard target library card. Fire a shot that inflict 1 dmg with a +2 dmg bonus if a Traveler card was discarded.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Headhunt",
+                "description": "Fire a shot that inflicts 1 dmg with a +9 dmg bonus if the shot travels exactly 4 tiles.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Lucky Seven",
+                "description": "Dash in a direction and attack a unit at the end with a +6 dmg bonus if there are exactly 7 library cards in hand.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Gamma Star",
+                "description": "Place Gamma Star Marks at 3 target tiles that will be hit for 2 dmg at the end of the round. -> Precision <- Draw 2.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Wind Bolt",
+                "description": "Fire a phaser that inflict 2 dmg. -> Polyhit <- Draw 2.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Brief Respite",
+                "description": "Jump to target position. -> Patience <- Heal 1 for each AP.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Rift Line",
+                "description": "A phaser that inflicts 1 dmg. -> Polyhit <- Teleport to phaser's final position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Make It Count",
+                "description": "Fire a shot that inflicts 1 dmg with a +5 dmg bonus if its the only car in hand. -> Initiative <- Draw 1 for each point of damage.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Beta Star",
+                "description": "Place Beta Start Marks at 2 target tiles that will be hit for 3 dmg at the end of the round. -> Precision <- Draw 3.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Shuriken",
+                "description": "Fire a shot that inflict 1 dmg. Teleport to target position. -> Initiative <- Draw 1 prioritizing another Shuriken, gain 1 AP.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Replenish",
+                "description": "Heal 1 and Draw 1 -> Grit <- Heal 2 and Draw 2, insead Recast",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            }
+        ],
+        "3": [
+            {
+                "card_name": "Killing Arrow",
+                "description": "Place a Killing Arrow Mark at target tile. It will be hit for 10 dmg at the end of the round.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Energy Beam",
+                "description": "Fire a phaser that inflict 1 dmg with +1 dmg bonus for each unit it phases. -> Precision <- Draw 2.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Stalk",
+                "description": "Gain Stealth 1. If there are no enemies nearby, gain Stealth 3 instead.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Shock Jump",
+                "description": "Jump to target tile then inflict 2 dmg in an area. -> Polyhit <- Recast",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Sharp Dash",
+                "description": "Zip to target position, inflicting 1 dmg to zipped units. -> Initiative <- Recast !",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Escape Route",
+                "description": "Caster will be displaced to target position at the end of their turn.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Double Shot",
+                "description": "Fire a shot that inflict 3 dmg and then inflict 1 dmg to target unit. -> Precision <- Draw 1.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Shinespark",
+                "description": "Zip towards a direction stopping only at wall and inflicting 2 dmg to zipped units.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Quiet Flutter",
+                "description": "Gain Stealth 2 and Flight . -> Discard <- Gain 1 AP.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Pounce",
+                "description": "Jump on target enemy and inflict 1 dmg for each AP. -> Precision <- Recast !",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Iaijutsu",
+                "description": "Teleport to target position and attack target unit. -> Patience <- +2 dmg bonus for each AP.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Alpha Star",
+                "description": "Place an Alpha Star Mark at target tile. It will be hit for 7 dmg at the end of the round. -> Precision <- Draw 7.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Mulligan",
+                "description": "Reshuffle hand ans library card. Draw 1 for each cards previously in hand -1. -> Discard <- Gain 1AP.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            }
+        ],
+        "4": [
+            {
+                "card_name": "Crossing Arrows",
+                "description": "Inflict 4 dmg in a scattered area. -> Polyhit <- Inflict 4 dmg in a scattered area again.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Axe Spin",
+                "description": "Inflict 1 dmg in a large area with a +3 dm bonus at tpecific tiles.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Cardinal Shot",
+                "description": "Inflict 3 dmg in a scattered area. -> Polyhit <- Gain Stealth 3.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Driving Slice",
+                "description": "Attack target combat unit and gain 1 AP.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Shuriken Storm",
+                "description": "Fire 4 cardinal shots that inflict 1 dmg. -> Polyhit <- Gain 1 AP. -> Initiative <- Gain 1 AP.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Keen Dash",
+                "description": "Zip to target position, inflicting 1 dmg to zipped units. -> Initiative <- Recast and increase dmg by 1.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Barrage",
+                "description": "Inflict 3 dmg to any unit at target position and 1 dmg in a small area. -> Polyhit <- Recast !",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Aerial Ace",
+                "description": "If not in Flight , Zip to target inflicting 1 dmg and gain Flight . Else jump to target position and inflict 10 dmg to target unit. Dispel Flight .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Boomerang",
+                "description": "Fire a shot that inflict 4 dmg and then bounces to a nearby enemy decreasing damage by 1. -> Polyhit <- Draw 2.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Blink Strike",
+                "description": "Teleport to target position and attack target unit twice. -> Initiative <- If at 1 AP Recast !",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Hookshot",
+                "description": "Fire a shot that inflicts 1 dmg and the pulls caster. -> Initiative <- Recast ! -> Precision <- Recast !",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Golden Phoenix",
+                "description": "Teleport to target position and then Zip back attacking zipped units",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            }
+        ],
+        "5": [
+            {
+                "card_name": "Ninja Backpack",
+                "description": "Draw a Hook and Shuriken from library. If all or none of the card were drawn gain 1 AP.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "To The Vault",
+                "description": "Draw 3. -> Discard <- Draw 2.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Shadow Strike",
+                "description": "If in Stealth attack target combat unit with a +9 dmg bonus. Else attack target combat unit then gain Stealth 1.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Adrenaline",
+                "description": "Gain 2 AP. -> Discard <- Draw 2.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Rain Down",
+                "description": "Inflict 4 dmg in a large scattered area. -> Polyhit <- Recast !",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Bat's Dive",
+                "description": "Jum to target position and then Zip to another position inflicting 2 dmg to zipped units. -> Precision <- Recast !",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Flash",
+                "description": "Teleport to target position. Gain 1 AP.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            }
+        ]
+    },
+    "Warden": {
+        "1": [
+            {
+                "card_name": "Barricade",
+                "description": "Summon a Barricade Wall. It blocks shots and movements",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Second Wind",
+                "description": "Heal 1 plus Heal 1 for each close enemy.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Turtle Push",
+                "description": "Gain Shield 1 opposite to target direction. If there was a unit at target: Push 1. -> Patience <- : Gain Shield 1 perpendicularly.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Magnetic Force",
+                "description": "Push 1 target towards any direction. If target is a gizmo inflict 1 dmg to target.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Stun Trap",
+                "description": "Place a Stun Trap at target position. It inflicts Stun 2 to an enemy that moves to its position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Buzzsaw",
+                "description": "Build a Buzzsaw. It inflict 1 dmg to close units when hit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Crossbow",
+                "description": "Build a Crossbow. It fire a shot that inflicts 1 dmg when hit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Twin Gems",
+                "description": "Summon a pair of Crystal Gems. They are resilient and move when attacked and may hit units they collide with.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Frost Shield",
+                "description": "Gain Shield 2 toward the target direction. Inflict Root to units in a line with value based on distance.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Regen Thorns",
+                "description": "Bestow Regen 3 and Retaliate 1 to target mob or self.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Punt",
+                "description": "Attack target unit and launch it the furthest distance possible in the same direction.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Winds of Change",
+                "description": "Push 1 all units toward target direction.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Caltrops",
+                "description": "Place Caltrops in the area. They inflict 1 dmg and Wound 1 to grounded units that moves to its posiiton.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            },
+            {
+                "card_name": "Sow",
+                "description": "Summon 4 Health Fruits. They Heal 1 when destroyed.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 1
+            }
+        ],
+        "2": [
+            {
+                "card_name": "Shield Bash",
+                "description": "If caster has a Shield , dispel it and inflict dmg and Stun based on the shield value. Else fain Shield 1 and inflict 1 dmg to a unit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Enroot",
+                "description": "Bestow Regen 2 and inflict Root 2 to target mob or self.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Honey Comb",
+                "description": "Heal 2 all allies in an area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Tether Web",
+                "description": "Place web tiles in a lines. They provide free pathing to allies and inflict Root 1 to grounded enemies.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Catapult",
+                "description": "Build a Catapult. It launches nearby units when hit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Tesla Claw",
+                "description": "Build a Tesla Claw. It inflict 2 dmg to the closest enemy of its summoner when hit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Plasma Gate",
+                "description": "Build a pair of Plasma Pylons. They inflict 2 dmg to units between them when hit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Vine Thorns",
+                "description": "Place a Vinethorns trap. It inflict 1 dmg and Root 1 to any grounded unit that steapd on it. It multiplies at the end of the round.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Ale",
+                "description": "Purge self. -> Discard <- Heal 2.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Binding Palm",
+                "description": "Attack and inflict Root 2 to target unit. -> Patience <- Attack and inflict Stun 1 to target instead.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Ooze Mixer",
+                "description": "Summon a Ooze Mixer gizmo. It summons a Slime Remnant next to it when hit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Crater",
+                "description": "Inflict 2 dmg and Root 1 to all close units and summon Barricade Walls around the area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Golem Swing",
+                "description": "Inflict 1 dmg and Push 1 to close units. Inflict Stun 1 to units that cannot move.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Toss",
+                "description": "Throw target unit to target position, inflicting 1 dmg and Stun 1. Inflict Stun 1 to all unit clase to target position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            },
+            {
+                "card_name": "Builder's Drive",
+                "description": "Summon a copy of target prop or gizmo.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 2
+            }
+        ],
+        "3": [
+            {
+                "card_name": "Spin Web",
+                "description": "Place 2 lines of Webs. Provide free pathing to allies and inflict Root 1 to grounded enemies that moves over it.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Frostwave",
+                "description": "Inflict 1 dmg and Root 1 in an area. Place Ice Floor in the same area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Fatal Error",
+                "description": "Destroy target prop or gizmo. If target was a gizmo it explodes and units in a small area are hit for 2 dmg and suffer Stun 1.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Denying Palm",
+                "description": "Attack and Push 4 to target combat unit. Infilict Stun 1-4 if unit hit a obstacle.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Thermostat",
+                "description": "Build a Thermostat. It inflicts Wound 1 and place Ice Floors in an area when hit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Thran Dynamo",
+                "description": "Build a Tran Dynamo. It Push 1 all units to the target direction when hit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Harmful Bless",
+                "description": "Heal 3 target unit and inflict 2 dmg to all units around it.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Onsen",
+                "description": "Place Onsens in an area. They Heal 1 grounded units that moves to its position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Stalactite",
+                "description": "Summon a Stalactite. Any unit under it as it spawns are hit for 2 dmg and suffer Crush .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Stalagmite",
+                "description": "Summon a Stalagmite. Any unit over it as it spawns are hit for 1 dmg, suffer Stun 1 and Crush .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Glyphs of Repel",
+                "description": "Place 4 Glyphs of Repel in cardinals. They inflict Stun 1 to an enemy that moves to its postion then repel the unit over it at the end of the turn.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Riposte",
+                "description": "Gain Retaliate 1. -> Patience <- Gain Immunity 1 and Retaliate 1 for each AP instead.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            },
+            {
+                "card_name": "Bonfire",
+                "description": "Build a Bonfire. It Heal 1 nearby allies and inflicts Burn 1 nearby enemies when hit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 3
+            }
+        ],
+        "4": [
+            {
+                "card_name": "Plough",
+                "description": "Destroy all props and clear all placed Traps.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Marsh",
+                "description": "Inflict Root 1 and Disease 5 to all mobs. Mobs already suffering Root are hit for 2 dmg.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Succor",
+                "description": "Heal target equal to its max HP.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Hold the Line",
+                "description": "Place Glyphs of Repel in a line. They inflict Stun 1 to an enemy that moved to its position then Push the unit over it.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Frozen Meteor",
+                "description": "Summon a Frozen Meteor. Place Ice Fllors around it. Any unit under it as it spawns are hit for 2 dmg and suffer Crush .",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Blooming",
+                "description": "Purge self. Inflict Push 1 to all close units and then inflict Root 2 on all units in a wider area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Chained to Rock",
+                "description": "Summon a Chaining Rock. it inflict Root 1 to any unit in target position.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Earthbind",
+                "description": "Inflict Root 2 to all grounded mobs in an area and Heal 1 for each mob rooted.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Avalanche Slam",
+                "description": "Inflict Stun 1 to close units. Place Stalactite Warning at target tiles. They will be hit for 2 dmg at the end of the round.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Magma Gate",
+                "description": "Build a pair of Magma Pylons. They place Magma between them when hit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Sound the Horn",
+                "description": "Inflict Stun 1 to all mobs in the area.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            },
+            {
+                "card_name": "Amak's Fortune",
+                "description": "Gain Immunity 2",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 4
+            }
+        ],
+        "5": [
+            {
+                "card_name": "Castle",
+                "description": "Gain Shield 3 on all direction and summon Barricade Wall in the corners around caster.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Midnight Oil",
+                "description": "Bestow Regen 3 and Heal 4 to target combat unit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Magma Moat",
+                "description": "Place Magma in a wide are then Push 1 all close units.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Piledriver",
+                "description": "Build a Piledriver. It summons Stalagmite under the closest enemy when hit.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Tsunami",
+                "description": "3 phasers that clear all place tile traps and inflicts Push 1, 2 dmg and Stun 1 to units.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Dragon Tomb",
+                "description": "Inflict Stun 1 and summon Ice Slabs around target mob. The blocks inflict Crush to units around target.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            },
+            {
+                "card_name": "Heroic Stand",
+                "description": "Purge self and gain Immunity 2.",
+                "owned": 0,
+                "limit": 4,
+                "required_runes": 5
+            }
+        ]
+    }
+}
